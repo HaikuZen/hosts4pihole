@@ -1,59 +1,74 @@
-0.0.0.0 099c91270d215a26b7806d9441d7989a.safeframe.googlesyndication.com
-0.0.0.0 a1832.casalemedia.com
-0.0.0.0 a2203.casalemedia.com
-0.0.0.0 a2240.casalemedia.com
-0.0.0.0 a3226.casalemedia.com
-0.0.0.0 a3400.casalemedia.com
-0.0.0.0 a702.casalemedia.com
-0.0.0.0 a717.casalemedia.com
-0.0.0.0 aax.amazon-adsystem.com
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 api.assertcom.de
-0.0.0.0 ap.lijit.com
-0.0.0.0 beacon-ams3.rubiconproject.com
-0.0.0.0 browser.sentry-cdn.com
-0.0.0.0 cadmus2.script.ac
-0.0.0.0 c.amazon-adsystem.com
-0.0.0.0 cdn.jsdelivr.net
-0.0.0.0 cdn.mediago.io
-0.0.0.0 config.aps.amazon-adsystem.com
-0.0.0.0 e6p44qs4xbsvnv8bg.ay.delivery
-0.0.0.0 ep1.adtrafficquality.google
-0.0.0.0 ep2.adtrafficquality.google
-0.0.0.0 eus.rubiconproject.com
-0.0.0.0 eu-west-1-production-rtb-wins.yellowblue.io
-0.0.0.0 exchange.postrelease.com
-0.0.0.0 fastlane.rubiconproject.com
-0.0.0.0 fundingchoicesmessages.google.com
-0.0.0.0 ghent-gce-nl.bidswitch.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 gtrace.mediago.io
-0.0.0.0 hb.minutemedia-prebid.com
-0.0.0.0 hbopenbid.pubmatic.com
-0.0.0.0 hb.yellowblue.io
-0.0.0.0 ib.adnxs-simple.com
-0.0.0.0 images.mediago.io
-0.0.0.0 js.sentry-cdn.com
-0.0.0.0 k8s1-event-tracker-fr.lb.indexww.com
-0.0.0.0 krk2.kargo.com
-0.0.0.0 k.streamrail.com
-0.0.0.0 mboxedge37.tt.omtrdc.net
-0.0.0.0 o1140342.ingest.sentry.io
-0.0.0.0 otrack.kueezrtb.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 pbs-eu-central.ay.delivery
-0.0.0.0 proc.ad.cpe.dotomi.com
-0.0.0.0 region1.analytics.google.com
-0.0.0.0 secure.cdn.fastclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 smdqwwiiwfjbmdpqb.ay.delivery
-0.0.0.0 static.kueezrtb.com
-0.0.0.0 s.update.rubiconproject.com
-0.0.0.0 tags.crwdcntrl.net
-0.0.0.0 tlx.3lift.com
-0.0.0.0 token.rubiconproject.com
-0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 trace-eu.mediago.io
-0.0.0.0 trace.mediago.io
-0.0.0.0 track.kueezrtb.com
+099c91270d215a26b7806d9441d7989a.safeframe.googlesyndication.com
+a1832.casalemedia.com
+a2203.casalemedia.com
+a2240.casalemedia.com
+a3226.casalemedia.com
+a3400.casalemedia.com
+a702.casalemedia.com
+a717.casalemedia.com
+aax.amazon-adsystem.com
+ade.googlesyndication.com
+adx.g.doubleclick.net
+api.assertcom.de
+ap.lijit.com
+beacon-ams3.rubiconproject.com
+browser.sentry-cdn.com
+cadmus2.script.ac
+c.amazon-adsystem.com
+cdn.jsdelivr.net
+cdn.mediago.io
+config.aps.amazon-adsystem.com
+e6p44qs4xbsvnv8bg.ay.delivery
+ep1.adtrafficquality.google
+ep2.adtrafficquality.google
+eus.rubiconproject.com
+eu-west-1-production-rtb-wins.yellowblue.io
+exchange.postrelease.com
+fastlane.rubiconproject.com
+fundingchoicesmessages.google.com
+ghent-gce-nl.bidswitch.net
+googleads.g.doubleclick.net
+gtrace.mediago.io
+hb.minutemedia-prebid.com
+hbopenbid.pubmatic.com
+hb.yellowblue.io
+ib.adnxs-simple.com
+images.mediago.io
+js.sentry-cdn.com
+k8s1-event-tracker-fr.lb.indexww.com
+krk2.kargo.com
+k.streamrail.com
+mboxedge37.tt.omtrdc.net
+o1140342.ingest.sentry.io
+otrack.kueezrtb.com
+pagead2.googlesyndication.com
+pbs-eu-central.ay.delivery
+proc.ad.cpe.dotomi.com
+region1.analytics.google.com
+secure.cdn.fastclick.net
+securepubads.g.doubleclick.net
+smdqwwiiwfjbmdpqb.ay.delivery
+static.kueezrtb.com
+s.update.rubiconproject.com
+tags.crwdcntrl.net
+tlx.3lift.com
+token.rubiconproject.com
+tpc.googlesyndication.com
+trace-eu.mediago.io
+trace.mediago.io
+track.kueezrtb.com
+# from wafflegame.net
+appleid.cdn-apple.com
+cadmus.script.ac
+cdn.hadronid.net
+cdn.id5-sync.com
+config.aps.amazon-adsystem.com
+connect.facebook.net
+edge.venatusmedia.com
+gum.criteo.com
+hb.vntsm.com
+hb-vntsm-com.global.ssl.fastly.net
+hb.vntsm.io
+id.hadron.ad.gt
+lb.eu-1-id5-sync.com
+www.facebook.com
